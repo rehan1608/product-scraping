@@ -1,5 +1,4 @@
-# internship-assignment
-Product scrapping from amazon.in
+#Product scrapping from <a href="https://www.amazon.in/">Amazon</a>
 
 <b>Please install the necessary modules before running the script :- </b>
 
